@@ -1,0 +1,17 @@
+div {
+    border-style: solid;
+    border-color:orange;
+    padding: 5px;
+    margin: 5px;
+    color: orange;
+    
+    
+
+}
+body{
+    background-color:rgb(76, 76, 76)
+}
+
+h1{
+    color:orange
+}
